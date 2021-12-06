@@ -1,0 +1,3 @@
+[sqlalchemy.dialects]
+bigquery = pybigquery.sqlalchemy_bigquery:BigQueryDialect
+
